@@ -208,6 +208,10 @@ body {
   background: #000;
 }
 
+.contact-section .card {
+  border: 0 !important;
+}
+
 .pricing-section .card-header{
   background-color: rgba(35, 0, 43, 0.7);
   border-radius: 0.5em 0.5em 0em 0em;

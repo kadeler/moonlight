@@ -109,7 +109,7 @@ body {
   font-size: 80% !important;
   text-transform: uppercase;
   letter-spacing: 0.15rem !important;
-  border: 0;
+  border: 0 !important;
 }
 
 .masthead {
@@ -251,8 +251,8 @@ body {
   padding-top: 5rem;
 }
 .contact-section .card {
-  border: 0;
-  border-bottom: 0.25rem solid var(--bs-accent-primary);
+  border: 0 !important;
+  border-bottom: 0.25rem solid var(--bs-accent-primary) !important;
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;

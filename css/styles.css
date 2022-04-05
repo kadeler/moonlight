@@ -208,8 +208,9 @@ body {
   background: #000;
 }
 
-.contact-section .card {
+.pricing-section .card {
   border: 0 !important;
+  border-color: #000;
 }
 
 .pricing-section .card-header{
